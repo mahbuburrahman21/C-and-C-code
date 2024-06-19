@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    int n, num, i, j;
+    int n, num;
     
     scanf("%d %d", &n, &num);
     int ar[n];
